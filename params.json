@@ -1,0 +1,1 @@
+{"name":"Iru Dog's GitHub Pages","tagline":"","body":"### Welcome to Iru Dog's GitHub Pages.\r\n\r\n```scheme\r\n#!/usr/bin/guile -s\r\n!#\r\n(define 节 and)\r\n(define 哀 #f) \r\n(define (xi) (display \"Arch is the best!\\n\"))\r\n(节 (xi) 哀 (wen) 顺 (le) 变 (jian) )\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
