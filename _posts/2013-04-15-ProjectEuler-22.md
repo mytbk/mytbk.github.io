@@ -8,8 +8,7 @@ title: ProjectEuler 22
 sed -e 's/\"//g' /tmp/names.txt | tr , "\n" |sort|tcc -run euler22.c
 </pre>
 <pre class="prettyprint">
-//euler22.c
-#include <stdio.h>
+#include &lt;stdio.h&gt;
 
 int main()
 {
